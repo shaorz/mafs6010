@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"S:\\source\\mafs6010\\CardGameplay\\Card\\Source\\Card\\Card.Build.cs",
+		"S:\\source\\mafs6010\\CardGameplay\\Card\\Source\\Card.Target.cs",
+		"S:\\source\\mafs6010\\CardGameplay\\Card\\Source\\CardEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
